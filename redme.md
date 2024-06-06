@@ -6,3 +6,4 @@
 6. git log --oneline : resumen de mis commit
 7. escape : wq
 8. .gitignore : Ignora archivos o carpetas
+9.  git push -u origin main :  sube archivos a repositorio
